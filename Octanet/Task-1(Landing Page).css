@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Gabarito', cursive;
+}
+li{
+	list-style-type: none;
+}
+.list-one{
+	margin-left: 700px;
+}
+.unorderedList li{
+	display: inline-block;
+}
+.list-two{
+	margin-left: 20px;
+}
+.list-one{
+	color: rgb(28, 28, 149);
+}
+.unorderedList li:hover{
+	cursor: pointer;
+}
+.first{
+	margin-left: 100px;
+}
+.icons li{
+	display: inline-block;
+	font-size: 20px;
+	color: white;
+}
+.icons li:hover{
+	cursor: pointer;
+}
+.divOne{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	border-radius: 20px;
+}
+i{
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#first{
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#divTwo{
+	margin-left: 700px;
+	color: rgb(28, 28, 149);
+	font-size: 15px;
+}
+.divThree{
+	color: black;
+	font-size: 15px;
+	margin-left: 10px;
+}
+#divFour{
+	margin-left: 15px;
+	color: rgb(28, 28, 149);
+	font-size: 15px;
+}
+.image{
+/*	margin-left: 33px;*/
+	margin-top: 20px;
+	width: 100%;
+	height: 50%;
+}
+.hone{
+	position: absolute;
+/*	margin-top: 100px;*/
+	color: white;
+	font-size: 50px;
+	margin-top: 200px;
+	left: 300px;
+}
+.htwo{
+	position: absolute;
+/*	margin-top: 100px;*/
+	color: white;
+	margin-top: 280px;
+	left: 300px;
+}
+.hthree{
+	position: absolute;
+	margin-top: 400px;
+	background-color: transparent;
+	border: 1px solid white;
+	color: white;
+	padding: 10px;
+	width: 150px;
+	left: 300px;
+}
+.hfour{
+    position: absolute;
+	margin-top: 400px;
+	background-color: white;
+	border: 1px solid white;
+	color: black;
+	padding: 8px;
+	width: 150px;
+	left: 160px;
+	height: 38px;
+	left: 470px;	
+}
+.hthree:hover{
+	cursor: pointer;
+}
+.hfour:hover{
+	cursor: pointer;
+}
